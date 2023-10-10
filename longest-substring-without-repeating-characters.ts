@@ -1,11 +1,11 @@
-function lengthOfLongestSubstring(s: string): number {
+function lengthOfLongestSubstring(str: string): number {
     let left = 0;
     let longest = 0;
     const subString = new Set();
 
-    for (let right of s) {
+    for (let right of str) {
         while (subString.has(right)) {
-            subString.delete(s[left]);
+            subString.delete(str[left]);
             left += 1;
         }
         subString.add(right)
@@ -14,6 +14,6 @@ function lengthOfLongestSubstring(s: string): number {
     return longest;
 };
 
-console.log(lengthOfLongestSubstring("abcabcbb"));
-console.log(lengthOfLongestSubstring("bbbbb"));
-console.log(lengthOfLongestSubstring("pwwkew"));
+console.log(lengthOfLongestSubstring("abcabcbb")); //3
+console.log(lengthOfLongestSubstring("bbbbb")); //1
+console.log(lengthOfLongestSubstring("pwwkew")); //3
