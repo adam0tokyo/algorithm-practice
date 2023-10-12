@@ -1,7 +1,4 @@
-
-import { exit } from "process";
-
-// this question is poorly worded
+// this question is poorly explained
 // first attempt
 function topKFrequent(nums: number[], k: number): number[] {
     const numCount: {[key: number]: number} = {}
@@ -12,13 +9,14 @@ function topKFrequent(nums: number[], k: number): number[] {
         numCount[num] += 1;
     }
 
+    //convert hasmap to array, sort, crop and remove keys
     return Object.entries(numCount)
     .sort((a, b) => b[1] - a[1])
     .slice(0,k)
     .map((e) => Number(e[0]))
 }
 
-//// second (followwing)
+//// second (following neetcode python)
 // function topKFrequent(nums: number[], k: number): number[] {
 //     const numCount: Map<number, number> = new Map();
 //     const freqCount: number[][] = new Array(nums.length);
