@@ -3,7 +3,7 @@ function twoSum(nums: number[], target: number): number[] {
     let complement: number;
     let output = [0,0];
 
-    for (let i = 0; i > nums.length; i++) {
+    for (let i = 0; i < nums.length; i++) {
         complement = target - nums[i];
         if (hashMap.hasOwnProperty(complement)) {
             output = [i, hashMap[complement]]
