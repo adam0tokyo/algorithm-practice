@@ -6,4 +6,5 @@ look up magic methods
 Do two tickets & review one at suspage
 
 GET
-AWS Certified Cloud Practitioner
+AWS Certified Cloud Practitioner 
+PREP FOR CLF-C02
