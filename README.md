@@ -16,5 +16,5 @@ CONTINUE Cloud practitioner program (follow free code camp version??)
 
 TODO
 ~mobile preview placement
-preview scroll wheel
+~preview scroll wheel~
 AWS
