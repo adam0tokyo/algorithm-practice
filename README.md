@@ -20,3 +20,5 @@ TODO
 AWS
 Organize
 backup content
+
+figure out direction
