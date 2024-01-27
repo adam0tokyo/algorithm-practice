@@ -19,6 +19,5 @@ TODO
 ~preview scroll wheel~
 AWS
 Organize
-backup content
 
 figure out direction
