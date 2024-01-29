@@ -19,5 +19,3 @@ TODO
 ~preview scroll wheel~
 AWS
 Organize
-
-figure out direction
