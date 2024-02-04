@@ -22,3 +22,7 @@ Organize
 
 prioritize tasks
 
+Look into
+dynamic programming
+memoization
+
