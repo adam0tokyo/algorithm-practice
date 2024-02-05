@@ -26,3 +26,5 @@ Look into
 dynamic programming
 memoization
 type-level-typescript
+
+tslk to shimizu, parents
