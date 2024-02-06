@@ -28,3 +28,5 @@ memoization
 type-level-typescript
 
 tslk to shimizu, parents
+
+Pydantic + FastAPI
