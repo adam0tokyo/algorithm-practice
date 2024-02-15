@@ -27,6 +27,6 @@ dynamic programming
 memoization
 type-level-typescript
 
-tslk to shimizu, parents
+tslk to shimizu, parents!!?
 
 Pydantic + FastAPI
