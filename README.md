@@ -9,14 +9,11 @@ GET
 AWS Certified Cloud Practitioner 
 PREP FOR CLF-C02
 
-Going back to US soon..
 UPDATE RESUME, 
 CONTINUE Cloud practitioner program (follow free code camp version??)
 code competition
 
 TODO
-~mobile preview placement
-~preview scroll wheel~
 AWS
 Organize
 
@@ -26,7 +23,5 @@ Look into
 dynamic programming
 memoization
 type-level-typescript
-
-tslk to shimizu, parents!!?
 
 Pydantic + FastAPI
