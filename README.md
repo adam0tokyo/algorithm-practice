@@ -23,3 +23,5 @@ memoization
 type-level-typescript
 
 Pydantic + FastAPI
+
+job hunt restart
