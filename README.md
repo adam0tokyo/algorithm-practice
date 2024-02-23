@@ -24,4 +24,4 @@ type-level-typescript
 
 Pydantic + FastAPI
 
-job hunt restart
+job hunt restart ASAP
