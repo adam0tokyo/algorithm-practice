@@ -25,3 +25,5 @@ type-level-typescript
 Pydantic + FastAPI
 
 job hunt restart ASAP
+
+what to study
