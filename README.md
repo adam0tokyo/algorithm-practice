@@ -27,4 +27,4 @@ Pydantic + FastAPI
 job hunt restart ASAP
 
 what to study
-hurry
+hurry more
