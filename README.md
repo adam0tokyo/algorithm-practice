@@ -31,4 +31,5 @@ hurry more
 
 1. amazon cloud pracctitioner study
 2. update resume(s)
-3. get some projects
+3. job hunt/apply
+4. get some projects
