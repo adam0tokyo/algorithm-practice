@@ -28,3 +28,7 @@ job hunt restart ASAP
 
 what to study
 hurry more
+
+1. amazon cloud pracctitioner study
+2. update resume(s)
+3. get some projects
