@@ -12,7 +12,6 @@ CONTINUE Cloud practitioner program (follow free code camp version??)
 code competition
 
 TODO
-AWS
 Organize
 
 prioritize tasks
