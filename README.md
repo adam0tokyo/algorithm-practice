@@ -25,7 +25,7 @@ Pydantic + FastAPI
 
 job hunt restart ASAP
 
-1. amazon cloud pracctitioner study
+1. AWS Certified Cloud Practitioner study
 2. update resume(s)
 3. job hunt/apply
 4. get some projects
