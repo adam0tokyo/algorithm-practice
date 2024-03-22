@@ -24,8 +24,12 @@ type-level-typescript
 Pydantic + FastAPI
 
 job hunt restart ASAP
+yaaay.jp
+<meta content="width=device-width, initial scale=1" name="viewport" />
 
 1. AWS Certified Cloud Practitioner study
 2. update resume(s)
 3. job hunt/apply
 4. get some projects
+
+
