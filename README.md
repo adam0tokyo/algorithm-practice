@@ -33,3 +33,12 @@ yaaay.jp
 4. get some projects
 
 
+// Given a list of boarding passes, construct an itinerary.
+// Input:
+// LAX -> HNL
+// SFO -> LAX
+// HNL -> NRT
+//
+// Output:
+// SFO -> LAX -> HNL -> NRT
+
