@@ -21,6 +21,8 @@ dynamic programming
 memoization
 type-level-typescript
 
+learn about hydration
+
 Pydantic + FastAPI
 
 job hunt restart ASAP
