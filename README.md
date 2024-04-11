@@ -44,5 +44,5 @@ yaaay.jp
 // Output:
 // SFO -> LAX -> HNL -> NRT
 
-just apply?
+apply?
 
