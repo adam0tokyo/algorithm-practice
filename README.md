@@ -44,8 +44,4 @@ yaaay.jp
 // Output:
 // SFO -> LAX -> HNL -> NRT
 
-get started
-
-
-
 
