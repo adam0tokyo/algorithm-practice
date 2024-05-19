@@ -25,6 +25,8 @@ learn about hydration
 
 Pydantic + FastAPI
 
+openAPI spec complaitn REST framework
+
 job hunt restart ASAP
 yaaay.jp
 <meta content="width=device-width, initial scale=1" name="viewport" />
