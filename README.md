@@ -47,5 +47,6 @@ yaaay.jp
 // SFO -> LAX -> HNL -> NRT
 
 GET BACK TO IT!!!
+Talk to Jason's recruiter
 
 
