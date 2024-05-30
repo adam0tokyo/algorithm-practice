@@ -48,6 +48,5 @@ yaaay.jp
 
 GET BACK TO IT!!!
 Talk to Jason's recruiter
-Running out of excuses
 
 
