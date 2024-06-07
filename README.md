@@ -51,4 +51,5 @@ Talk to Jason's recruiter
 What can you do?
 What can you do?
 What can you do?
+Shit, they quit
 
