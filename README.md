@@ -49,4 +49,9 @@ yaaay.jp
 GET BACK TO IT!!!
 Talk to Jason's recruiter!
 
+svelte/sveltekit + daisyUI
+Astro
+django postgres alpine.js?
+supabase
+
 
