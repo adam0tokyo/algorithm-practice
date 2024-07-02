@@ -54,4 +54,6 @@ Astro
 django postgres alpine.js?
 supabase
 
+HURRY
+
 
